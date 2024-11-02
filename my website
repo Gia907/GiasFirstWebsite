@@ -1,1 +1,18 @@
-My website
+<html>
+    <head>
+        <link rel = "stylesheet" href = "main.css">
+    </head>
+    <title>Music</title>
+    <video width="400" controls>
+    <source src="https://www.youtube.com/watch?v=u4VwzWu4P8I">
+    </video>
+        <li>indie rock</li>
+        <li>K-pop</li>
+        <li>Soft</li>
+    </ol>
+    <h1 style= "color: #9879ad; text-align: center;" >My favorite music artists</h1>
+    <h2 style = "color:burlywood;">By: Gia Vergara</h2>
+    <p>I love many different genres. <br> I listen to a lot of music. </p>
+    <a href="https://open.spotify.com/">see my spotify account</a> <br>
+    <img src="https://i.scdn.co/image/ab6761610000517471eb8f92b86868400ed4e006"></img>
+</html>
