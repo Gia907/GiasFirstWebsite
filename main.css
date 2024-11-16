@@ -1,3 +1,53 @@
-h2{
-    color:mediumpurple
+.navbar{
+background-color: maroon;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    text-align:center ;
 }
+
+.navbar li{
+    list-style-type: none;
+    display: inline;
+
+}
+
+.navbar a{
+    font-size: 38px;
+    padding: 14px 16px; 
+    text-decoration: none;
+    color: white;
+
+}
+
+.navbar a:hover{
+    background-color: white;
+    color: maroon;
+}
+
+body{
+    margin:0;
+    padding:0;
+}
+
+
+
+.contentA{
+    background-color:rgb(252, 232, 208);
+    padding: 10% 5%;
+    display: flex;
+    text-align:center;
+    font-style: oblique;
+}
+
+.contentA p{
+    padding: 5%;
+    font-size: 1vw;
+    line-height: 150%;
+}
+
+.contentA img {
+    width: 80%;
+}
+
